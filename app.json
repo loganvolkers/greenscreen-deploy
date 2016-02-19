@@ -1,0 +1,23 @@
+{
+  "name": "Greenscreen",
+  "description": "Digital signage using Google Chromecast",
+  "keywords": [
+    "chromecast",
+    "analytics",
+    "dashboard"
+  ],
+  "website": "https://github.com/groupon/greenscreen/",
+  "repository": "https://github.com/groupon/greenscreen",
+  "logo": "https://avatars3.githubusercontent.com/u/206233?v=3&s=200",
+  "success_url": "/setup",
+  "env": {},
+  "addons": [
+    "heroku-postgresql",
+    "mailgun"
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-jvm-common.git"
+    }
+  ]
+}
