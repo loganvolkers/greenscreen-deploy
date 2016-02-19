@@ -9,7 +9,7 @@
   "website": "https://github.com/groupon/greenscreen/",
   "repository": "https://github.com/groupon/greenscreen",
   "logo": "https://avatars3.githubusercontent.com/u/206233?v=3&s=200",
-  "success_url": "/setup",
+  "success_url": "/setup-chromecast.html",
   "env": {},
   "addons": [
     "cloudant:basic"
