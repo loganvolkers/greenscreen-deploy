@@ -12,8 +12,7 @@
   "success_url": "/setup",
   "env": {},
   "addons": [
-    "heroku-postgresql",
-    "mailgun"
+    "cloudant:basic"
   ],
   "buildpacks": [
     {
